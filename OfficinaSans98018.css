@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url("subset-OfficinaSansBookCc707f.txt") format('woff2'),
+        url("subset-OfficinaSansBookC39839.txt") format('woff'),
+        url("subset-OfficinaSansBookCe8641.txt") format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url("subset-OfficinaSansBoldC39575.txt") format('woff2'),
+        url("subset-OfficinaSansBoldC5d0e5.txt") format('woff'),
+        url("subset-OfficinaSansBoldC06e2e.txt") format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url("subset-OfficinaSansBlackC1cd41.txt") format('woff2'),
+        url("subset-OfficinaSansBlackCdec6a.txt") format('woff'),
+        url("subset-OfficinaSansBlackC6de24.txt") format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
