@@ -24,50 +24,8 @@ offer .line .kek{
 	text-decoration: none;
     color: #474e5a;
 	}
-/*.offer .gift {
- position: absolute;
- left: 222px;
- bottom: 30px;
- width: 388px;
- height: 171px;
- font-size: 20px;
- font-weight: 900;
- background: url("giftb17fe.png") 0 0 no-repeat;
-}
- .offer .gift {
-  position: relative;
-  left: -67px;
-  bottom: auto;
- }
-    .offer .gift {
-  left: -68px;
- }
- .offer .gift p {
-  padding-left: 147px;
- }
-.offer .gift p {
- padding: 67px 0 0 155px;
-}
-.offer .gift span {
- display: block;
- color: #f34970;
-}*/
-.offer .line li:nth-child(1) {
- padding-left: 28px;
- background: url("icon-13e37c.png") 0 50% no-repeat;
-}
-.offer .line li:nth-child(2) {
- padding-left: 33px;
- background: url("icon-234949.png") 0 50% no-repeat;
-}
-.offer .line li:nth-child(3) {
- padding-left: 37px;
- background: url("icon-313182.png") 0 50% no-repeat;
-}
-.offer .line li:nth-child(4) {
- padding-left: 26px;
- background: url("icon-401ad9.png") 0 50% no-repeat;
-}
+
+
 .offer .line h4 {
  height: 60px;
  line-height: 60px;
@@ -148,9 +106,7 @@ margin-left: -250px;
 .offer .plus li:nth-child(3):before {
  background-image: url("lebed.PNG");
 }
-.offer .plus li:nth-child(4):before {
- background-image: url("plus-icon48557f.png");
-}
+
 .offer .plus li p {
  overflow: hidden;
 }
