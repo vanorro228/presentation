@@ -742,12 +742,10 @@ width:400px;
  }
     .list-v12 .txt1 {
   overflow: hidden;
-  text-align: left;
-  padding: 40px 0 0 30px;
+  padding: 40px 50px 0 30px;
  vertical-align: top;
  text-align: center;
  font-size: 18px;
- margin-left: 150px;
  }
      .list-v12 li {
   width: 100%;
